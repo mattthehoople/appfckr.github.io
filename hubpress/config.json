@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mattthehoople",
-    "repositoryName": "mattthehoople.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mattthehoople","repositoryName":"mattthehoople.github.io","branch":"master"},"site":{"title":"Testy test","url":"http://mattthehoople.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://mattthehoople.github.io/themes/Casper"}}
